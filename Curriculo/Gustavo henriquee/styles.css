@@ -1,0 +1,22 @@
+.container{
+   
+   
+}
+body{
+   background-color: #444b72;
+}
+
+img{
+    width: 100px;
+    align-content: end;
+}
+.texto{
+   align-content:center ;
+   
+}
+nav{
+justify-content: space-between;
+justify-items: center;
+text-align: center;
+}
+
